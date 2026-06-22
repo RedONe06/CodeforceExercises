@@ -8,3 +8,5 @@
 _Binary search + InternalSort (QuickSort mix)_
 * [474B](https://codeforces.com/problemset/problem/474/B) - Worms <br>
 _Binary search => 0(n) -> O(logn)_
+* [399D](https://codeforces.com/problemset/problem/339/D) - Xenia and Bit Operations <br>
+_Merge sort_
