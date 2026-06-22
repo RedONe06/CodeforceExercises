@@ -1,8 +1,15 @@
 #include <algorithm>
 #include <iostream>
-#include <vector>
-// TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
+// Write algorithm
+// void codeF474(){}
+
 int main() {
+    std::ios_base::sync_with_stdio(false);
+    std::cin.tie(NULL);
+
+    // Call algorithm
+    // codeF474();
+
     return 0;
 }
