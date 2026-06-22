@@ -61,6 +61,12 @@ build CMakeFiles/EstudoPraP3.dir/cplusplus/codeF600B.cpp.obj: CXX_COMPILER__Estu
   OBJECT_DIR = CMakeFiles\EstudoPraP3.dir
   OBJECT_FILE_DIR = CMakeFiles\EstudoPraP3.dir\cplusplus
 
+build CMakeFiles/EstudoPraP3.dir/cplusplus/codeF474B.cpp.obj: CXX_COMPILER__EstudoPraP3_unscanned_Debug C$:/Users/andri/CLionProjects/EstudoPraP3/cplusplus/codeF474B.cpp || cmake_object_order_depends_target_EstudoPraP3
+  DEP_FILE = CMakeFiles\EstudoPraP3.dir\cplusplus\codeF474B.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\EstudoPraP3.dir
+  OBJECT_FILE_DIR = CMakeFiles\EstudoPraP3.dir\cplusplus
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target EstudoPraP3
@@ -69,7 +75,7 @@ build CMakeFiles/EstudoPraP3.dir/cplusplus/codeF600B.cpp.obj: CXX_COMPILER__Estu
 #############################################
 # Link the executable EstudoPraP3.exe
 
-build EstudoPraP3.exe: CXX_EXECUTABLE_LINKER__EstudoPraP3_Debug CMakeFiles/EstudoPraP3.dir/main.cpp.obj CMakeFiles/EstudoPraP3.dir/cplusplus/codeF600B.cpp.obj
+build EstudoPraP3.exe: CXX_EXECUTABLE_LINKER__EstudoPraP3_Debug CMakeFiles/EstudoPraP3.dir/main.cpp.obj CMakeFiles/EstudoPraP3.dir/cplusplus/codeF600B.cpp.obj CMakeFiles/EstudoPraP3.dir/cplusplus/codeF474B.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\EstudoPraP3.dir
